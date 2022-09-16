@@ -1,0 +1,19 @@
+.screen{
+    padding:2%;
+    background-color: azure;
+
+}
+.screen .header{
+    font-family: "Zapf Dingbats";
+    font-size: xxx-large;
+    padding-bottom: 2%;
+}
+.screen .actions{
+    display:flex;
+    flex-wrap: wrap;
+    column-gap: 5px;
+}
+.screen .hobbies{
+    margin-right:2px;
+
+}
