@@ -1,0 +1,79 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "meghna desai",
+      "email": "meghnad@gmail.com",
+      "phone": "9092323232",
+      "dob": "2001-09-06",
+      "gender": "female",
+      "hobbies": [
+        "reading",
+        "dancing",
+        "Sleeping"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "fresh",
+      "email": "newname@newname.com",
+      "phone": "8745687656",
+      "dob": "2022-09-15T18:30:00.000Z",
+      "gender": "female",
+      "hobbies": [
+        "dancing",
+        "Sleeping",
+        "reading"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "jihan jonas",
+      "email": "newname@newname.com",
+      "phone": "2323233223",
+      "dob": "2022-09-22T18:30:00.000Z",
+      "gender": "male",
+      "hobbies": [
+        "reading",
+        "dancing"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "meghan",
+      "email": "gwsb@hddh.com",
+      "phone": "7253278627",
+      "dob": "2022-09-09T18:30:00.000Z",
+      "gender": "female",
+      "hobbies": [
+        "reading",
+        "dancing"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "dhanajaya desai",
+      "email": "dd@dd11.com",
+      "phone": "8745687656",
+      "dob": "2022-08-31T18:30:00.000Z",
+      "gender": "male",
+      "hobbies": [
+        "reading",
+        "dancing",
+        "Singing"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "hiname",
+      "email": "hiname@gmail.,com",
+      "phone": "8745687656",
+      "dob": "2022-09-04T18:30:00.000Z",
+      "gender": "male",
+      "hobbies": [
+        "reading",
+        "dancing"
+      ]
+    }
+  ]
+}

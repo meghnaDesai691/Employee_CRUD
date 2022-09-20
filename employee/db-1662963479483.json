@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@abc.com",
+      "dob": "06/09/2001",
+      "phone": "994599999",
+      "hobbies": [
+        "writing",
+        "talking",
+        "singing",
+        "music"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "email": "janedoe@abc.com",
+      "dob": "01/09/1997",
+      "phone": "999659999",
+      "hobbies": [
+        "writing",
+        "talking",
+        "singing",
+        "music"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "last_name": "Doe",
+      "email": "alicedoe@abc.com",
+      "dob": "06/10/2021",
+      "phone": "999999799",
+      "hobbies": [
+        "writing",
+        "talking",
+        "singing",
+        "music"
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Bob",
+      "last_name": "Doe",
+      "email": "bobdoe@abc.com",
+      "dob": "06/12/1991",
+      "phone": "9999998699",
+      "hobbies": [
+        "writing",
+        "talking",
+        "singing",
+        "music"
+      ]
+    }
+  ]
+}
